@@ -51,7 +51,7 @@ public class Case {
         
         Scanner sc  = new Scanner(System.in);
         System.out.println("Enter the sentence: ");
-        System.out.println("1. UPPERCASE\n2. lowercase\n3. Capitalize Each Word\n4. tOGGLE CASE");
+        System.out.println("1. UPPERCASE\n2. lowercase\n3. Capitalize Each Word\n4. tOGGLE cASE");
         System.out.println("Enter the String: ");
         String s1 = new String();
         s1 = sc.nextLine();
